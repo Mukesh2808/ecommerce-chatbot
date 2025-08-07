@@ -1,0 +1,39 @@
+[
+    {
+        "orderId": "12345",
+        "customerId": "C001",
+        "customerName": "John Doe",
+        "products": [
+            {"productId": "P001", "quantity": 2, "price": 29.99},
+            {"productId": "P003", "quantity": 1, "price": 59.99}
+        ],
+        "totalAmount": 119.97,
+        "status": "delivered",
+        "orderDate": "2024-01-15T10:30:00Z",
+        "deliveryDate": "2024-01-18T14:20:00Z"
+    },
+    {
+        "orderId": "12346",
+        "customerId": "C002",
+        "customerName": "Jane Smith",
+        "products": [
+            {"productId": "P002", "quantity": 1, "price": 79.99}
+        ],
+        "totalAmount": 79.99,
+        "status": "shipped",
+        "orderDate": "2024-01-20T09:15:00Z",
+        "estimatedDelivery": "2024-01-23T16:00:00Z"
+    },
+    {
+        "orderId": "12347",
+        "customerId": "C003",
+        "customerName": "Mike Johnson",
+        "products": [
+            {"productId": "P005", "quantity": 1, "price": 69.99},
+            {"productId": "P004", "quantity": 2, "price": 45.99}
+        ],
+        "totalAmount": 161.97,
+        "status": "processing",
+        "orderDate": "2024-01-22T11:45:00Z"
+    }
+]

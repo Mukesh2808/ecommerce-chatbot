@@ -1,0 +1,47 @@
+[
+    {
+        "productId": "P001",
+        "name": "Classic T-Shirt",
+        "category": "T-Shirts",
+        "price": 29.99,
+        "stock": 150,
+        "salesCount": 245,
+        "description": "Comfortable cotton t-shirt"
+    },
+    {
+        "productId": "P002",
+        "name": "Denim Jeans",
+        "category": "Jeans",
+        "price": 79.99,
+        "stock": 85,
+        "salesCount": 189,
+        "description": "Premium denim jeans"
+    },
+    {
+        "productId": "P003",
+        "name": "Summer Dress",
+        "category": "Dresses",
+        "price": 59.99,
+        "stock": 42,
+        "salesCount": 156,
+        "description": "Lightweight summer dress"
+    },
+    {
+        "productId": "P004",
+        "name": "Polo Shirt",
+        "category": "Shirts",
+        "price": 45.99,
+        "stock": 78,
+        "salesCount": 134,
+        "description": "Cotton polo shirt"
+    },
+    {
+        "productId": "P005",
+        "name": "Hoodie",
+        "category": "Hoodies",
+        "price": 69.99,
+        "stock": 92,
+        "salesCount": 298,
+        "description": "Warm cotton hoodie"
+    }
+]
